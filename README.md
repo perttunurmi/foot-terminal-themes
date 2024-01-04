@@ -14,7 +14,7 @@ mkdir ~/.config/foot/foot.ini
 cp /etc/xdg/foot/foot.ini ~/.config/foot/foot.ini
 ```
 
-<h3> installing to foot/themes <h3>
+<h3> installing to foot/themes </h3>
 
 1. Create folder /usr/share/foot/themes
 
