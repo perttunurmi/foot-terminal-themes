@@ -1,10 +1,11 @@
 # foot-terminal-themes
 Themes for foot terminal
 
-<h1> How to install </h1>
+<h2> How to install </h2>
 
 You can copy the file content straight to your foot.ini or install them to 
-/usr/share/foot/themes which will keep your ini file cleaner.
+/usr/share/foot/themes which will keep your ini file cleaner and make it easier
+to store multiple themes.
 
 the ini file should be ~/.config/foot/foot.ini
 
