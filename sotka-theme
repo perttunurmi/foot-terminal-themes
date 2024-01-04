@@ -1,0 +1,25 @@
+# sotka-theme by PERTZ42
+
+[colors]
+foreground=dcdccc
+background=111111
+
+## Normal/regular colors (color palette 0-7)
+regular0=222222
+regular1=540a0a
+regular2=3e9e71
+regular3=ffbc00
+regular4=911130
+regular5=70143b
+regular6=a6540c 
+regular7=ccb4a1
+
+## Bright colors (color palette 8-15)
+bright0=666666 
+bright1=8f2f2f     
+bright2=43448a     
+bright3=f0e518     
+bright4=43448a     
+bright5=e02da9    
+bright6=0cf21f     
+bright7=ffffff     
