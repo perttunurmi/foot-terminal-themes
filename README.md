@@ -28,3 +28,12 @@ cp /etc/xdg/foot/foot.ini ~/.config/foot/foot.ini
 [main]
 include=/usr/share/foot/themes/name-of-theme
 ```
+
+
+<h1> Themes </h1>
+
+<h3>  Sotka  </h3>
+
+![sotka-theme](https://github.com/PERTZ42/foot-terminal-themes/assets/67430802/38bc27d7-2e66-44ad-a7bd-c6f435a2d356)
+
+![sotka-theme-2](https://github.com/PERTZ42/foot-terminal-themes/assets/67430802/5673497a-7a36-49ae-bb65-c96753162f2d)
