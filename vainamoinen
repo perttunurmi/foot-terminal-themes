@@ -1,4 +1,7 @@
+# Vainamoinen #
+
 [colors]
+alpha=0.90
 foreground=dcdccc
 background=111111
 
@@ -6,7 +9,7 @@ background=111111
 regular0=1a1918
 regular1=911130
 regular2=ffbc00
-regular3=03038f
+regular3=1414ba
 regular4=3e9e71
 regular5=8a154d
 regular6=a6540c 
@@ -21,3 +24,6 @@ bright4=02f584
 bright5=f20276
 bright6=f07407
 bright7=f5f5ed
+
+
+
