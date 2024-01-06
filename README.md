@@ -19,7 +19,7 @@ cp /etc/xdg/foot/foot.ini ~/.config/foot/foot.ini
 
 1. Create folder /usr/share/foot/themes
 
-2. Copy your chosen the to
+2. Copy your chosen theme to
 ```
 /user/share/foot/themes/name-of-theme
 ```
