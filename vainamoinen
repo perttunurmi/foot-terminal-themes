@@ -1,0 +1,23 @@
+[colors]
+foreground=dcdccc
+background=111111
+
+## Normal/regular colors (color palette 0-7)
+regular0=1a1918
+regular1=911130
+regular2=ffbc00
+regular3=03038f
+regular4=3e9e71
+regular5=8a154d
+regular6=a6540c 
+regular7=bfbf9f
+
+## Bright colors (color palette 8-15)
+bright0=666666 
+bright1=e60b42
+bright2=f5f51b
+bright3=1313f0
+bright4=02f584
+bright5=f20276
+bright6=f07407
+bright7=f5f5ed
